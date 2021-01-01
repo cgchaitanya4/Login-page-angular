@@ -1,3 +1,8 @@
+## DEFAULT CREDENTIALS
+ emailid -> "admin@admin.com"
+ password -> "admin
+ 
+## THIS IS FRONT_END ONLY , FUNCTIONS ARE MADE TO LINK WITH API
 # LoginRegisterPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
